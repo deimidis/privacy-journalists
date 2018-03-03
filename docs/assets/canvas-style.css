@@ -113,7 +113,5 @@ footer {
   color: var(--content);
   font-size: 0.8em;
   padding: 10px;
-  bottom: 0;
-  position: fixed;
   width: 100%;
 }
