@@ -23,6 +23,12 @@ Nos basamos en trabajos didácticos e interesantes como:
 
 * [Data detox](https://datadetox.myshadow.org/detox) - un recorrido de 8 dias para obtener el control sobre nuestros datos en la web
 
+## Estado actual
+
+En el [sitio web](https://deimidis.github.io/privacy-journalists/) se pueden ver:
+
+* [Open Canvas](https://deimidis.github.io/privacy-journalists/open_canvas/) - una forma de explicar el problema que queremos resolver y las razones por las que elegimos las soluciones.
+
 ## Próximos pasos
 
 Este trabajo forma parte del proyecto [Mozilla Open Leadership](), mediante el cuál recibimos mentoreo y lo preparamos para el [sprint de trabajo](https://foundation.mozilla.org/opportunity/global-sprint/) que ocurrirá en mayo del 2018.
