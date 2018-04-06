@@ -22,6 +22,7 @@ Nuestra idea es crear una serie de tutoriales que puedan seguirse diariamente en
 Nos basamos en trabajos didácticos e interesantes como:
 
 * [Data detox](https://datadetox.myshadow.org/detox) - un recorrido de 8 dias para obtener el control sobre nuestros datos en la web
+* [Security planner](https://securityplanner.org/)
 
 ## Estado actual
 
