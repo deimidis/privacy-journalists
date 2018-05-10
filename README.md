@@ -23,6 +23,7 @@ Nos basamos en trabajos didácticos e interesantes como:
 
 * [Data detox](https://datadetox.myshadow.org/detox) - un recorrido de 8 dias para obtener el control sobre nuestros datos en la web
 * [Security planner](https://securityplanner.org/)
+* [The field guide to security training in the newsroom](https://the-field-guide-to-security-training-in-the-newsroom.readthedocs.io/en/latest/)
 
 ## Estado actual
 
